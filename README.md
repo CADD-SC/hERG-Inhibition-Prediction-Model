@@ -1,4 +1,4 @@
-# hERG-Toxicity-Prediction-Model
+# hERG-inhibiton-Prediction-Model
 Machine learning-based prediction model for hERG inhibition prediction
 
 ## Introduction: ## 
