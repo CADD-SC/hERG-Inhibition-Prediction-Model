@@ -1,4 +1,4 @@
-# hERG-Inhibiton-Prediction-Model
+# hERG-Inhibition-Prediction-Model
 Machine learning-based prediction model for hERG inhibition prediction
 
 ## Introduction: ## 
